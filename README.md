@@ -23,3 +23,13 @@ You will need to download the following files (use `curl -O`) (alternatively, cl
 
 To unzip files, use `unzip` from the command line.
 
+## Citations
+@inproceedings{CrossLanguageDatasetLREC2016,
+  TITLE = {{A Multilingual, Multi-Style and Multi-Granularity Dataset for Cross-Language Textual Similarity Detection}},
+  AUTHOR = {J{\'e}r{\'e}my Ferrero and Fr{\'e}d{\'e}ric Agn{\`e}s and Laurent Besacier and Didier Schwab},
+  BOOKTITLE = {{The 10th edition of the Language Resources and Evaluation Conference (LREC 2016)}},
+  ADDRESS = {Portoro{\v z}, Slovenia},
+  YEAR = {2016},
+  MONTH = May,
+  KEYWORDS = {Cross-language plagiarism detection ; Dataset ; Cross-language dataset ; Cross-language similarity detection ; Evaluation},
+}
