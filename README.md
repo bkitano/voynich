@@ -1,7 +1,5 @@
 # Voynich Project
 
-[What up I'm Brian I'm 19 and I never fuckin learned how to read](https://www.youtube.com/watch?v=CqCCBohjaqA)
-
 welcome to my Voynich Project
 
 Don't open the notebook until you do all the installation stuff.
